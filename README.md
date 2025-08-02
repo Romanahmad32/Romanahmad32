@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, ich bin Roman Ahmad!
 
-<!--
-**Romanahmad32/Romanahmad32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Über mich
+- 🎓 Ich studiere derzeit Informatic BSc an der Frankfurt University of Applied Sciences.
+- 💼 Interessiert an Webentwicklung und KI.
+- 🌱 Derzeit lerne ich Flutter und DotNet.
+- 📫 Du erreichst mich unter: romanahmad32@gmail.com
 
-Here are some ideas to get you started:
+## 🔧 Technologien & Tools
+![Flutter](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEIN_USERNAME&show_icons=true&theme=github_dark)
+
+## 📂 Projekte
+Hier sind ein paar ausgewählte Projekte:
+
+| Projekt | Beschreibung | Technologien |
+|--------|--------------|---------------|
+| roman_projekt | Mein erstesFlutterPojekt | Flutter |
