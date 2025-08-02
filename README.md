@@ -7,7 +7,7 @@
 - 📫 Du erreichst mich unter: romanahmad32@gmail.com
 
 ## 🔧 Technologien & Tools
-![Flutter]([https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white))
+![Flutter](https://img.shields.io/npm/v/npm.svg?logo=Flutter&logoColor=02569B))
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEIN_USERNAME&show_icons=true&theme=github_dark)
