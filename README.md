@@ -10,6 +10,7 @@
 
 ## 🔧 Technologien & Tools
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Romanahmad32&show_icons=true&theme=github_dark)
@@ -19,4 +20,4 @@ Hier sind ein paar ausgewählte Projekte:
 
 | Projekt | Beschreibung | Technologien |
 |--------|--------------|---------------|
-| roman_projekt | Mein erstesFlutterPojekt | Flutter |
+| Playground_Flutter_Project | Projekt um Flutterkenntinisse zu erweitern | Flutter,Dart |
