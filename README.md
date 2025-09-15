@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Über mich
 - 🖥️ Ich bin 21 Jahre alt und arbeite gerne an meinen Projekten in meiner Freizeit
-- 💼 Seit Dezember 2024 arbeite ich als Softwareentwickler an Kundenwebsites
+- 💼 Seit Dezember 2024 arbeite ich als Softwareentwickler an Kundenapplikationen
 - 🎓 Ich studiere derzeit Informatic BSc an der Frankfurt University of Applied Sciences.
 - 🤖 Interessiert an Webentwicklung und KI.
 - 🌱 Derzeit lerne ich Flutter, DotNet und Java.
