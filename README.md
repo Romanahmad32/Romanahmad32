@@ -28,4 +28,5 @@ Hier sind ein paar ausgewählte Projekte:
 
 | Projekt | Beschreibung | Technologien |
 |--------|--------------|---------------|
-| Playground_Flutter_Project | Projekt um Flutterkenntinisse zu erweitern | Flutter,Dart |
+| Playground_Flutter_Project | Projekt um Flutterkenntinisse zu erweitern | Flutter, Dart |
+| todo_app | Eine responsive Flutter-To-Do-App, die sich auf die Bildschirmgröße anpasst. | Flutter, Dart |
