@@ -1,11 +1,10 @@
 # 👋 Hi, ich bin Roman Ahmad!
 
 ## 👨‍💻 Über mich
-- 🖥️ Ich bin 21 Jahre alt und arbeite gerne an meinen Projekten in meiner Freizeit
-- 💼 Seit Dezember 2024 arbeite ich als Softwareentwickler an Kundenapplikationen
-- 🎓 Ich studiere derzeit Informatic BSc an der Frankfurt University of Applied Sciences.
-- 🤖 Interessiert an Webentwicklung und KI.
-- 🌱 Derzeit lerne ich Flutter, DotNet und Java.
+- 💼 Seit Dezember 2024 arbeite ich als Werkstudent in der Softwareentwicklung an Kundenapplikationen (Flutter, .NET)
+- 🎓 Ich studiere Informatik (B.Sc.) an der Frankfurt University of Applied Sciences (6. Semester)
+- 🖥️ In meiner Freizeit baue ich eigene Projekte — z. B. eine Desktop-App zur Büro-Automatisierung mit Flutter und .NET
+- 🤖 Interessiert an Webentwicklung und KI
 - 📫 Du erreichst mich unter: romanahmad32@gmail.com
 
 ## 🔧 Technologien & Tools
@@ -28,5 +27,7 @@ Hier sind ein paar ausgewählte Projekte:
 
 | Projekt | Beschreibung | Technologien |
 |--------|--------------|---------------|
-| Playground_Flutter_Project | Projekt um Flutterkenntinisse zu erweitern | Flutter, Dart |
-| todo_app | Eine responsive Flutter-To-Do-App, die sich auf die Bildschirmgröße anpasst. | Flutter, Dart |
+| [Office Automation App](https://github.com/Romanahmad32/flutter_automation_app) | Desktop-App zur Automatisierung von Büroarbeit: Word-Vorlagen ausfüllen, Mandantenverwaltung, Mailbox-Überwachung (Clean Architecture, BLoC) | Flutter, Dart |
+| [AutomationService](https://github.com/Romanahmad32/AutomationService) | Web-API als Backend zur Office Automation App — automatisiert das Befüllen von Word-Dokumenten | C#, .NET |
+| [Sumo-RT](https://github.com/Romanahmad32/Sumo-RT) | Echtzeit-Verkehrssimulation mit SUMO/TraCI — Uni-Projekt im Modul OOP in Java | Java |
+| [todo_app](https://github.com/Romanahmad32/todo_app) | Eine responsive Flutter-To-Do-App, die sich an die Bildschirmgröße anpasst (Clean Architecture, Hive) | Flutter, Dart |
